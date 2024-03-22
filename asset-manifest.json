@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learnable-react-todo/static/css/main.17aade3d.css",
+    "main.js": "/learnable-react-todo/static/js/main.062a2523.js",
+    "index.html": "/learnable-react-todo/index.html",
+    "main.17aade3d.css.map": "/learnable-react-todo/static/css/main.17aade3d.css.map",
+    "main.062a2523.js.map": "/learnable-react-todo/static/js/main.062a2523.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17aade3d.css",
+    "static/js/main.062a2523.js"
+  ]
+}
