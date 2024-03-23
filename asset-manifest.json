@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/learnable-react-todo/static/css/main.17aade3d.css",
-    "main.js": "/learnable-react-todo/static/js/main.062a2523.js",
+    "main.css": "/learnable-react-todo/static/css/main.109992b1.css",
+    "main.js": "/learnable-react-todo/static/js/main.001ad28e.js",
+    "static/media/bg.png": "/learnable-react-todo/static/media/bg.af4f56650433f070c3fb.png",
     "index.html": "/learnable-react-todo/index.html",
-    "main.17aade3d.css.map": "/learnable-react-todo/static/css/main.17aade3d.css.map",
-    "main.062a2523.js.map": "/learnable-react-todo/static/js/main.062a2523.js.map"
+    "main.109992b1.css.map": "/learnable-react-todo/static/css/main.109992b1.css.map",
+    "main.001ad28e.js.map": "/learnable-react-todo/static/js/main.001ad28e.js.map"
   },
   "entrypoints": [
-    "static/css/main.17aade3d.css",
-    "static/js/main.062a2523.js"
+    "static/css/main.109992b1.css",
+    "static/js/main.001ad28e.js"
   ]
 }
